@@ -1,0 +1,19 @@
+{
+  "name": "new6esp8266",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new6esp8266.js",
+  "scripts": {
+    "start": "node new6esp8266.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etherport-client": "^0.1.3",
+    "firmata": "^0.19.1",
+    "johnny-five": "^0.14.1",
+    "serialport": "^6.2.0",
+    "udp-serial": "^0.2.0"
+  }
+}
